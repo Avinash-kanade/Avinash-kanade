@@ -1,41 +1,5 @@
-[ReadMe (2).md](https://github.com/user-attachments/files/34093306/ReadMe.2.md)
-## Hi there 👋
-
-<!--
-**Avinash-kanade/Avinash-kanade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
-Quality Assurance Engineer with hands-on experience in manual, API, and automated testing across web applications. Skilled in designing and maintaining test automation frameworks using Selenium WebDriver, Playwright, Java, and Python, with continuous integration via Jenkins and Docker. Experienced in building robust test cases, executing end-to-end regression suites, and tracking issues via JIRA to ship reliable software.<br><br>Core Skills:<br><br>• Automation & Tools: Selenium WebDriver, Playwright, Postman, REST Assured, TestNG, Git, Jenkins, Docker, JIRA<br><br>• Languages & Web: Java, Python, JavaScript, TypeScript, SQL, HTML/CSS<br><br>• Methodologies: Agile/Scrum, SDLC, STLC, Functional & Regression Testing, API Validation<br><br>Open to Automation Test Engineer and SDET opportunities. Feel free to connect or reach out!
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/p/19sMoRCnZe/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanade__491) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-kanade0051) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@avinashkanade__491) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Avinash Kanade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanadeavinash098@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Avinash-kanade&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Avinash-kanade&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Avinash-kanade&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Avinash-kanade&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-[ReadMe (3).md](https://github.com/user-attachments/files/34093328/ReadMe.3.md)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Avinash-kanade&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Avinash-kanade&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+[ReadMe (3).md](https://github.com/user-attachments/files/34093358/ReadMe.3.md)
+# 💫 About Me:
 Quality Assurance Engineer with hands-on experience in manual, API, and automated testing across web applications. Skilled in designing and maintaining test automation frameworks using Selenium WebDriver, Playwright, Java, and Python, with continuous integration via Jenkins and Docker. Experienced in building robust test cases, executing end-to-end regression suites, and tracking issues via JIRA to ship reliable software.<br><br>Core Skills:<br><br>• Automation & Tools: Selenium WebDriver, Playwright, Postman, REST Assured, TestNG, Git, Jenkins, Docker, JIRA<br><br>• Languages & Web: Java, Python, JavaScript, TypeScript, SQL, HTML/CSS<br><br>• Methodologies: Agile/Scrum, SDLC, STLC, Functional & Regression Testing, API Validation<br><br>Open to Automation Test Engineer and SDET opportunities. Feel free to connect or reach out!
 
 
@@ -62,9 +26,3 @@ Quality Assurance Engineer with hands-on experience in manual, API, and automate
 [![](https://komarev.com/ghpvc/?username=Avinash-kanade&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
