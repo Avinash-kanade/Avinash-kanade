@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/Email-141414?style=flat&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/Resume-141414?style=flat&logo=googledrive&logoColor=34A853" alt="Resume" />
+<img 
+  📄 **[View / Download My Resume (PDF)](https://drive.google.com/file/d/1mGOrI73kUIKaWr9NxgffcD0MRTmwxSZO/view?usp=drivesdk)**
+  src="https://img.shields.io/badge/Resume-141414?style=flat&logo=googledrive&logoColor=34A853" alt="Resume" />
 </a>
 </p>
 ​<p align="center">
