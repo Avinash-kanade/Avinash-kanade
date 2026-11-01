@@ -1,67 +1,71 @@
-# Hi there, I'm Avinash Kanade 👋
-
-### 👨‍💻 Aspiring QA Automation Engineer | SDET | C-DAC Student
-
-I am a software testing enthusiast currently enrolled at C-DAC, specializing in Quality Assurance Automation. I am passionate about breaking things to build better software and have hands-on experience in designing robust test automation frameworks for Web, API, and Mobile applications. 
-
-Currently looking for full-time opportunities as a QA Automation Engineer or SDET in Pune or pan-India.
-
----
-
-### 🚀 About Me
-
-- 🎓 Studying **Software Testing and Quality Assurance Automation** at C-DAC.
-- 💻 Regularly building and maintaining automated test suites using **Selenium WebDriver, Playwright, and REST Assured**.
-- 🌱 Currently exploring mobile automation workflows with **Appium** and performance testing via **Apache JMeter**.
-- 🛠️ Hands-on with continuous integration pipelines using **Maven, Jenkins, and Docker**.
-- 📫 How to reach me: [LinkedIn](#) | **avinash-kanade0051**
-
----
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Test Automation & API:**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662299?style=for-the-badge&logo=appium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF9E0F?style=for-the-badge)
-
-**DevOps & Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
----
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Avinash-kanade&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Avinash-kanade&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Avinash-kanade&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Avinash-kanade&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Avinash-kanade&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Avinash-kanade&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+​<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Avinash%20Kanade&fontSize=50&fontAlignY=35&desc=Aspiring%20QA%20Automation%20Engineer%20|%20SDET%20|%20C-DAC%20Student&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Avinash Kanade Header" />
+​<p align="center">
+<a href="https://linkedin.com/in/avinash-kanade0051" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-141414?style=flat&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Avinash-kanade" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-141414?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-141414?style=flat&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-141414?style=flat&logo=googledrive&logoColor=34A853" alt="Resume" />
+</a>
+</p>
+​<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=QA+Automation+Engineer+%7C+SDET;Designing+Robust+Test+Automation+Frameworks;Selenium+%7C+Playwright+%7C+REST+Assured+%7C+Appium;CI%2FCD+Pipelines+with+Jenkins+%26+Docker" alt="Typing SVG" />
+</a>
+</p>
+​</div>
+​👨‍💻 About Me
+​Passionate Quality Assurance Automation Engineer / SDET currently enrolled at C-DAC, specializing in software testing methodologies, automated quality verification, and CI/CD quality gates.
+​🎓 Education: Pursuing specialized training in Software Testing & QA Automation at C-DAC.
+​🧪 Test Automation: Designing modular, scalable test suites across Web (Selenium, Playwright), API (REST Assured, Postman), and Mobile (Appium).
+​⚙️ CI/CD & DevOps: Integrating automated regression and sanity testing into Jenkins, Docker, and GitHub Actions pipelines.
+​📊 Performance & Quality: Conducting load and performance testing with Apache JMeter, with thorough defect tracking via Jira.
+​📍 Status: Actively seeking full-time QA Automation Engineer / SDET opportunities in Pune or Pan-India.
+​🛠️ Tech Stack & Automation Toolkit
+​💻 Programming Languages
+​<p>
+<img src="https://img.shields.io/badge/Java-141414?style=flat&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/Python-141414?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-141414?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-141414?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-141414?style=flat&logo=postgresql&logoColor=4479A1" alt="SQL" />
+<img src="https://img.shields.io/badge/C-141414?style=flat&logo=c&logoColor=00599C" alt="C" />
+</p>
+​🌐 Web & Mobile Test Automation
+​<p>
+<img src="https://img.shields.io/badge/Selenium-141414?style=flat&logo=selenium&logoColor=43B02A" alt="Selenium" />
+<img src="https://img.shields.io/badge/Playwright-141414?style=flat&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+<img src="https://img.shields.io/badge/Appium-141414?style=flat&logo=appium&logoColor=662299" alt="Appium" />
+</p>
+​🔌 API & Performance Testing
+​<p>
+<img src="https://img.shields.io/badge/REST_Assured-141414?style=flat&logo=rest-assured&logoColor=2E85C7" alt="REST Assured" />
+<img src="https://img.shields.io/badge/Postman-141414?style=flat&logo=postman&logoColor=FF6C37" alt="Postman" />
+<img src="https://img.shields.io/badge/Apache_JMeter-141414?style=flat&logo=apache&logoColor=D22128" alt="Apache JMeter" />
+</p>
+​🏗️ Frameworks & Testing Methodologies
+​<p>
+<img src="https://img.shields.io/badge/TestNG-141414?style=flat&logo=testng&logoColor=FF9E0F" alt="TestNG" />
+<img src="https://img.shields.io/badge/Cucumber_BDD-141414?style=flat&logo=cucumber&logoColor=23D96C" alt="Cucumber BDD" />
+<img src="https://img.shields.io/badge/JUnit5-141414?style=flat&logo=junit5&logoColor=25A162" alt="JUnit 5" />
+<img src="https://img.shields.io/badge/Jest-141414?style=flat&logo=jest&logoColor=C21325" alt="Jest" />
+<img src="https://img.shields.io/badge/Page_Object_Model-141414?style=flat&logo=design&logoColor=white" alt="Page Object Model" />
+<img src="https://img.shields.io/badge/Data_Driven_Testing-141414?style=flat&logo=database&logoColor=white" alt="Data Driven Testing" />
+</p>
+​🚀 Build, CI/CD & Project Management
+​<p>
+<img src="https://img.shields.io/badge/Apache_Maven-141414?style=flat&logo=apachemaven&logoColor=C71A36" alt="Apache Maven" />
+<img src="https://img.shields.io/badge/Jenkins-141414?style=flat&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Docker-141414?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-141414?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/GitHub_Actions-141414?style=flat&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Git-141414?style=flat&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/Jira-141414?style=flat&logo=jira&logoColor=0052CC" alt="Jira" />
+</p>
+​📂 Highlighted Automation Projects
